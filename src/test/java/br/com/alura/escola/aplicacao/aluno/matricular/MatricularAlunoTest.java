@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import br.com.alura.escola.dominio.PublicadorDeEventos;
+import br.com.alura.escola.academico.dominio.PublicadorDeEventos;
 import br.com.alura.escola.dominio.aluno.Aluno;
 import br.com.alura.escola.dominio.aluno.CPF;
 import br.com.alura.escola.infra.aluno.RepositorioDeAlunosEmMemoria;
